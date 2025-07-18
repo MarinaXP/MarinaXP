@@ -1,9 +1,5 @@
-👋 Hi, I’m @MarinaXP – Designer of Engaging Experiences
+👋 Hi, I’m @MarinaXP – Experience Designer
 
-What I do : imagining and designing experiences that immerse, intrigue, and transform.
+I specialize in imagining and crafting engaging experiences that captivate and inspire. This GitHub account serves as my experimental playground for prototyping innovative ideas and exploring creative solutions.
 
-This account is all about "What if we tried this?!" kind of vibe – my playground for prototyping and try creative experimentation.
-I'm also a big believer in reproducibility – sharing is caring.
-
-You’ll find open, replicable workflows all throughout my repos.
-Feel free to dive in, explore and remix. 
+Feel free to dive in and leverage these resources.
